@@ -1,29 +1,10 @@
-<<<<<<< HEAD
 # ruby_rails_login
 루비 온 레일즈 로그인 과정에 대한 레포
-=======
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+목적: 로그인 과정 구현 및 도커 빌드, 배포 과정 수행
 
-Things you may want to cover:
+* Ruby version :2.7.5
 
-* Ruby version
+* docker-compose 사용
+    <p><code>docker-compose up -d </code>를 이용해서 실행, 이외 5432 포트 사용</p>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> cecd213 (rails 기초 프로젝트 파일)
